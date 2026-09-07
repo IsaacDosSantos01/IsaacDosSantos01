@@ -22,6 +22,3 @@
   <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180" />
   <img src="https://vercel.app" alt="Linguagens mais usadas" height="180" />
 </p>
-
-
-
