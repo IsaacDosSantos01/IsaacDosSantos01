@@ -6,3 +6,6 @@
 - 🤝 Preciso de ajuda com qualquer linguagem, pois sou iniciante
 - ✉️ Contate-me no e-mail: isaacsantos7963@gmail.com
 - 🧠 Curiosidade: Estou focado em construir uma bagagem sólida antes das aulas começarem!
+
+### 🐍 Jogo da Cobrinha
+![Snake animation](https://github.com)
